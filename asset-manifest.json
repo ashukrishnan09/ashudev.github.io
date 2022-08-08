@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ashudev.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/ashudev.github.io/static/js/main.7a0430b3.js",
+    "static/js/787.f60f2cc8.chunk.js": "/ashudev.github.io/static/js/787.f60f2cc8.chunk.js",
+    "static/media/logo.svg": "/ashudev.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ashudev.github.io/index.html",
+    "main.073c9b0a.css.map": "/ashudev.github.io/static/css/main.073c9b0a.css.map",
+    "main.7a0430b3.js.map": "/ashudev.github.io/static/js/main.7a0430b3.js.map",
+    "787.f60f2cc8.chunk.js.map": "/ashudev.github.io/static/js/787.f60f2cc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7a0430b3.js"
+  ]
+}
